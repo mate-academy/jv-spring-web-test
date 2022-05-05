@@ -1,4 +1,4 @@
-package mate.academy.spring.model;
+package mate.academy.spring.model.dto;
 
 public class UserResponseDto {
     private Long id;
