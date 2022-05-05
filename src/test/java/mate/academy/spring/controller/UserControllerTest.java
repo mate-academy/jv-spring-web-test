@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 import mate.academy.spring.config.AppConfig;
 import mate.academy.spring.model.User;
-import mate.academy.spring.model.UserResponseDto;
+import mate.academy.spring.model.dto.UserResponseDto;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
